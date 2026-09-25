@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "playlists.xlsx",
   "generatedFrom": "Playlists sheet",
-  "courseCount": 69,
+  "courseCount": 70,
   "courses": [
     {
       "id": "azure-sentinel-training",
@@ -8076,6 +8076,34 @@
       ]
     },
     {
+      "id": "cissp-course-2026",
+      "title": "CISSP Course 2026",
+      "playlistId": "PLREO3BFl6VEE",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLREO3BFl6VEE",
+      "category": "Cybersecurity",
+      "trainer": "URDUIT Academy",
+      "description": "CISSP 2026 training series from URDUIT Academy.",
+      "sourceRow": 70,
+      "firstVideoId": "ETB_QBmZ5rk",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ETB_QBmZ5rk/mqdefault.jpg",
+      "lessons": [
+        {
+          "position": 1,
+          "videoId": "ETB_QBmZ5rk",
+          "title": "🛡️ CISSP 2026 🌐 | Introduction to CISSP in Urdu/Hindi | CISSP Certification Explained | Kashif Iqbal",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ETB_QBmZ5rk/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=ETB_QBmZ5rk&list=PLREO3BFl6VEE"
+        },
+        {
+          "position": 2,
+          "videoId": "50QqH6UhpGU",
+          "title": "🛡️ CISSP 2026 | Lecture 1| Security and Risk Management| 5 Pillars of Information Security | FedRAM",
+          "thumbnailUrl": "https://i.ytimg.com/vi/50QqH6UhpGU/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=50QqH6UhpGU&list=PLREO3BFl6VEE"
+        }
+      ]
+    },
+    {
       "id": "paloalto-firewall",
       "title": "Paloalto Firewall",
       "playlistId": "PLnzLM82lqy8sLwzyy1E5yY7urCJ5MqbM3",
@@ -10746,5 +10774,5 @@
   "thumbnailSource": "YouTube playlist feed first video thumbnail",
   "thumbnailUpdatedAt": "2026-07-28T14:38:29.892Z",
   "youtubeMetadataSource": "YouTube public playlist page order; RSS feed fallback",
-  "youtubeMetadataUpdatedAt": "2026-09-08T19:30:54.975Z"
+  "youtubeMetadataUpdatedAt": "2026-09-25T08:53:50.116Z"
 }
