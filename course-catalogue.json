@@ -8084,18 +8084,32 @@
       "trainer": "URDUIT Academy",
       "description": "CISSP 2026 training series from URDUIT Academy.",
       "sourceRow": 70,
-      "firstVideoId": "ETB_QBmZ5rk",
-      "thumbnailUrl": "https://i.ytimg.com/vi/ETB_QBmZ5rk/mqdefault.jpg",
+      "firstVideoId": "o1oje0zCo3A",
+      "thumbnailUrl": "https://i.ytimg.com/vi/o1oje0zCo3A/mqdefault.jpg",
       "lessons": [
         {
           "position": 1,
+          "videoId": "o1oje0zCo3A",
+          "title": "🛡️CISSP 2026 – Lecture 3 | 🌐 Business Continuity & Supply Chain Risk Management | URDU IT ACADEMY",
+          "thumbnailUrl": "https://i.ytimg.com/vi/o1oje0zCo3A/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=o1oje0zCo3A&list=PLREO3BFl6VEE"
+        },
+        {
+          "position": 2,
+          "videoId": "rHqM7cAK6Sc",
+          "title": "🛡️ CISSP 2026 | Lecture 2 🌐 | CISSP Preparation in Urdu/Hindi | CISSP Exam & Study Roadmap |",
+          "thumbnailUrl": "https://i.ytimg.com/vi/rHqM7cAK6Sc/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=rHqM7cAK6Sc&list=PLREO3BFl6VEE"
+        },
+        {
+          "position": 3,
           "videoId": "ETB_QBmZ5rk",
           "title": "🛡️ CISSP 2026 🌐 | Introduction to CISSP in Urdu/Hindi | CISSP Certification Explained | Kashif Iqbal",
           "thumbnailUrl": "https://i.ytimg.com/vi/ETB_QBmZ5rk/mqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=ETB_QBmZ5rk&list=PLREO3BFl6VEE"
         },
         {
-          "position": 2,
+          "position": 4,
           "videoId": "50QqH6UhpGU",
           "title": "🛡️ CISSP 2026 | Lecture 1| Security and Risk Management| 5 Pillars of Information Security | FedRAM",
           "thumbnailUrl": "https://i.ytimg.com/vi/50QqH6UhpGU/mqdefault.jpg",
@@ -10774,5 +10788,5 @@
   "thumbnailSource": "YouTube playlist feed first video thumbnail",
   "thumbnailUpdatedAt": "2026-07-28T14:38:29.892Z",
   "youtubeMetadataSource": "YouTube public playlist page order; RSS feed fallback",
-  "youtubeMetadataUpdatedAt": "2026-09-25T08:53:50.116Z"
+  "youtubeMetadataUpdatedAt": "2026-09-29T09:18:05.474Z"
 }
