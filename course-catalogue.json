@@ -104,368 +104,431 @@
       "trainer": "Urdu IT Academy",
       "description": "Complete FortiGate Firewall 7.0 training series from the ground up.",
       "sourceRow": 3,
-      "firstVideoId": "vyZxHn2f6DQ",
-      "thumbnailUrl": "https://i.ytimg.com/vi/vyZxHn2f6DQ/mqdefault.jpg",
+      "firstVideoId": "qklU18WwseQ",
+      "thumbnailUrl": "https://i.ytimg.com/vi/qklU18WwseQ/mqdefault.jpg",
       "lessons": [
         {
           "position": 1,
-          "videoId": "vyZxHn2f6DQ",
-          "title": "🛡️ NSE Module 2 | Lecture 50 🌐⚡ | Configure & Verify Interface-Based Source NAT Overload | FortiGate",
-          "thumbnailUrl": "https://i.ytimg.com/vi/vyZxHn2f6DQ/mqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=vyZxHn2f6DQ&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
+          "videoId": "qklU18WwseQ",
+          "title": "🛡️ NSE Module 2 | Lecture 60 🌐⚡ | Configure & Verify MAC Address-Based Firewall Policies | FortiGate",
+          "thumbnailUrl": "https://i.ytimg.com/vi/qklU18WwseQ/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=qklU18WwseQ&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
         },
         {
           "position": 2,
-          "videoId": "XCqAKPOFd04",
-          "title": "🛡️ NSE Module 2 | Lecture 49 🌐⚡ | Understanding NAT Concepts & Types | Network Address Translation |",
-          "thumbnailUrl": "https://i.ytimg.com/vi/XCqAKPOFd04/mqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=XCqAKPOFd04&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
+          "videoId": "vkPOZF4Iatw",
+          "title": "🛡️ NSE Module 2 | Lecture 59 🌐⚡ | Introduction to Firewall Policies & Rule Concepts in FortiGate |",
+          "thumbnailUrl": "https://i.ytimg.com/vi/vkPOZF4Iatw/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=vkPOZF4Iatw&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
         },
         {
           "position": 3,
-          "videoId": "MXTiaKG5O4Q",
-          "title": "🛡️ NSE Module 2 | Lecture 48 🌐⚡ | Configure & Verify DHCP Relay on FortiGate Firewall | UITA",
-          "thumbnailUrl": "https://i.ytimg.com/vi/MXTiaKG5O4Q/mqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=MXTiaKG5O4Q&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
+          "videoId": "drIHTgTBlsM",
+          "title": "🛡️ NSE Module 2 | Lecture 58 🌐⚡ | Configure & Verify VIP without Central Source NAT | FortiGate Lab",
+          "thumbnailUrl": "https://i.ytimg.com/vi/drIHTgTBlsM/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=drIHTgTBlsM&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
         },
         {
           "position": 4,
-          "videoId": "j6oURJUsM2E",
-          "title": "🛡️ NSE Module 2 | Lecture 47 🌐⚡ | Configure & Verify DHCP Server on Windows Server 2012 | UITA",
-          "thumbnailUrl": "https://i.ytimg.com/vi/j6oURJUsM2E/mqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=j6oURJUsM2E&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
+          "videoId": "PGxidEcTadA",
+          "title": "🛡️ NSE Module 2 | Lecture 57 🌐| Configure & Verify VIP Port Forwarding with Destination NAT |",
+          "thumbnailUrl": "https://i.ytimg.com/vi/PGxidEcTadA/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=PGxidEcTadA&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
         },
         {
           "position": 5,
-          "videoId": "m7fSyMBHpKg",
-          "title": "🛡️ NSE Module 2 | Lecture 46 🌐⚡ | Configure & Verify DHCP Server on FortiGate Firewall | UITA",
-          "thumbnailUrl": "https://i.ytimg.com/vi/m7fSyMBHpKg/mqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=m7fSyMBHpKg&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
+          "videoId": "ql1Lm0djsmY",
+          "title": "🛡️ NSE Module 2 | Lecture 56 🌐⚡ | Configure & Verify Destination NAT in FortiGate | Practical Lab |",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ql1Lm0djsmY/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=ql1Lm0djsmY&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
         },
         {
           "position": 6,
-          "videoId": "1585n1d66es",
-          "title": "🛡️ NSE Module 2 | Lecture 42 🌐⚡ | Introduction to BGP Dynamic Routing Protocol | Urdu IT Academy",
-          "thumbnailUrl": "https://i.ytimg.com/vi/1585n1d66es/mqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=1585n1d66es&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
-        },
-        {
-          "position": 7,
-          "videoId": "4Xz7kZs-M1k",
-          "title": "🛡️ NSE Module 2 | Lecture 45 🌐⚡ | DHCP Concepts & Theory | Dynamic Host Configuration Protocol |",
-          "thumbnailUrl": "https://i.ytimg.com/vi/4Xz7kZs-M1k/mqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=4Xz7kZs-M1k&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
-        },
-        {
-          "position": 8,
-          "videoId": "Bkjh5EKXIdY",
-          "title": "🛡️ NSE Module 2 | Lecture 44 🌐⚡ | Configure & Verify eBGP Routing Protocol | FortiGate |",
-          "thumbnailUrl": "https://i.ytimg.com/vi/Bkjh5EKXIdY/mqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=Bkjh5EKXIdY&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
-        },
-        {
-          "position": 9,
-          "videoId": "pRLwseH2U7M",
-          "title": "🛡️ NSE Module 2 | Lecture 43 🌐 | Understanding BGP Variants & Flavours | BGP Routing Urdu IT Academy",
-          "thumbnailUrl": "https://i.ytimg.com/vi/pRLwseH2U7M/mqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=pRLwseH2U7M&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
-        },
-        {
-          "position": 10,
-          "videoId": "HlEzzCgu6Pw",
-          "title": "MODULE 2 LECTURE 41 Configure and Verify OSPF Protocol in FortiGate",
-          "thumbnailUrl": "https://i.ytimg.com/vi/HlEzzCgu6Pw/mqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=HlEzzCgu6Pw&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
-        },
-        {
-          "position": 11,
-          "videoId": "wOrNHs5EU2g",
-          "title": "🛡️ NSE Module 2 | Lecture 35 🌐⚡ | Equal Cost Multi-Path (ECMP) Routing – Concepts & Overview 🔄🛣️",
-          "thumbnailUrl": "https://i.ytimg.com/vi/wOrNHs5EU2g/mqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=wOrNHs5EU2g&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
-        },
-        {
-          "position": 12,
-          "videoId": "B7ALBCg-7-U",
-          "title": "🛡️ NSE Module 2 | Lecture 40 🌐⚡ | Understanding OSPF Dynamic Routing Protocol | Urdu IT Academy",
-          "thumbnailUrl": "https://i.ytimg.com/vi/B7ALBCg-7-U/mqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=B7ALBCg-7-U&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
-        },
-        {
-          "position": 13,
-          "videoId": "3xSrj4baOck",
-          "title": "🛡️ NSE Module 2 | Lecture 39 🌐⚡ | Configure & Verify RIP Protocol in FortiGate | Urdu IT Academy",
-          "thumbnailUrl": "https://i.ytimg.com/vi/3xSrj4baOck/mqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=3xSrj4baOck&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
-        },
-        {
-          "position": 14,
-          "videoId": "rTbt8lAma1c",
-          "title": "🛡️ NSE Module 2 | Lecture 38 🌐⚡ | Introduction to RIP Dynamic Routing Protocol | Urdu IT Academy",
-          "thumbnailUrl": "https://i.ytimg.com/vi/rTbt8lAma1c/mqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=rTbt8lAma1c&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
-        },
-        {
-          "position": 15,
-          "videoId": "tr-ql_0EnQA",
-          "title": "🛡️ NSE Module 2 | Lecture 37 🌐⚡ | Configure Health Link Monitor in FortiGate | Urdu IT Academy",
-          "thumbnailUrl": "https://i.ytimg.com/vi/tr-ql_0EnQA/mqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=tr-ql_0EnQA&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
-        },
-        {
-          "position": 16,
-          "videoId": "5kpJOEe8eWQ",
-          "title": "🛡️ NSE Module 2 | Lecture 36 🌐⚡ | Configure & Test ECMP Routing in FortiGate | FortiGate ECMP",
-          "thumbnailUrl": "https://i.ytimg.com/vi/5kpJOEe8eWQ/mqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=5kpJOEe8eWQ&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
-        },
-        {
-          "position": 17,
-          "videoId": "vIaQ9P3Kvak",
-          "title": "🛡️ NSE Module 2 | Lecture 34 🌐🚦 | Configure & Verify Policy-Based Routing (PBR) in FortiGate 🔧💻",
-          "thumbnailUrl": "https://i.ytimg.com/vi/vIaQ9P3Kvak/mqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=vIaQ9P3Kvak&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
-        },
-        {
-          "position": 18,
-          "videoId": "zBBDp0VN2Rc",
-          "title": "🛡️ NSE Module 2 | Lecture 33 🌐🚦 | Understanding Policy-Based Routing (PBR) in FortiGate 🔧💻 | NSE",
-          "thumbnailUrl": "https://i.ytimg.com/vi/zBBDp0VN2Rc/mqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=zBBDp0VN2Rc&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
-        },
-        {
-          "position": 19,
-          "videoId": "60qpwU1X4Rw",
-          "title": "🛡️ NSE Module 2 | Lecture 32 🌐🔧 | Configure & Verify Static and Default Routes in FortiGate 💻⚡ | NSE",
-          "thumbnailUrl": "https://i.ytimg.com/vi/60qpwU1X4Rw/mqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=60qpwU1X4Rw&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
-        },
-        {
-          "position": 20,
-          "videoId": "qsZ6bI4nbAs",
-          "title": "🛡️ NSE Module 2 | Lecture 31 🌐🚦 | Static & Dynamic Routing – Overview & Concepts 🔧💻 | NSE",
-          "thumbnailUrl": "https://i.ytimg.com/vi/qsZ6bI4nbAs/mqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=qsZ6bI4nbAs&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
-        },
-        {
-          "position": 21,
-          "videoId": "ZlyhLVEdQjI",
-          "title": "🛡️ NSE Module 1 | Lecture 30 🔐💻 | Understanding & Configuring Administrative Access in FortiGate 🌐",
-          "thumbnailUrl": "https://i.ytimg.com/vi/ZlyhLVEdQjI/mqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=ZlyhLVEdQjI&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
-        },
-        {
-          "position": 22,
-          "videoId": "OrNyrtcKMJc",
-          "title": "🛡️ NSE Module 1 | Lecture 29 🚦🌐 | Understanding Traffic Shaping in FortiGate Firewall 🔧💻 | NSE",
-          "thumbnailUrl": "https://i.ytimg.com/vi/OrNyrtcKMJc/mqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=OrNyrtcKMJc&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
-        },
-        {
-          "position": 23,
-          "videoId": "tVsop_T5SC4",
-          "title": "🛡️ NSE Module 1 | Lecture 28 🌐💻 | Windows DNS Server Integration with FortiGate Firewall 🔧⚡ | NSE",
-          "thumbnailUrl": "https://i.ytimg.com/vi/tVsop_T5SC4/mqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=tVsop_T5SC4&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
-        },
-        {
-          "position": 24,
-          "videoId": "JyRnIMTsDeo",
-          "title": "🛡️ NSE Module 1 | Lecture 27 🌐💻 | Advanced DNS Configuration & Verification on FortiGate 🔧⚡ | NSE",
-          "thumbnailUrl": "https://i.ytimg.com/vi/JyRnIMTsDeo/mqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=JyRnIMTsDeo&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
-        },
-        {
-          "position": 25,
-          "videoId": "Iaj1KAP2y90",
-          "title": "🛡️ NSE Module 1 | Lecture 25  | Setting Up & Verifying Virtual Wire Pair in FortiGate Firewall 🔧💻",
-          "thumbnailUrl": "https://i.ytimg.com/vi/Iaj1KAP2y90/mqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=Iaj1KAP2y90&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
-        },
-        {
-          "position": 26,
-          "videoId": "CWfZ6aAhyVg",
-          "title": "🛡️ NSE Module 1 | Lecture 26 🌐💻 | DNS Configuration & Verification on FortiGate – Basics 🔧⚡ | NSE",
-          "thumbnailUrl": "https://i.ytimg.com/vi/CWfZ6aAhyVg/mqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=CWfZ6aAhyVg&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
-        },
-        {
-          "position": 27,
-          "videoId": "7XPzz-j_VLA",
-          "title": "🛡️ NSE Module 1 | Lecture 24 🔧🌐 | Configuring & Testing Software Switch in FortiGate 💻⚡ | NSE",
-          "thumbnailUrl": "https://i.ytimg.com/vi/7XPzz-j_VLA/mqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=7XPzz-j_VLA&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
-        },
-        {
-          "position": 28,
-          "videoId": "8zzgsRZkaRI",
-          "title": "🛡️ NSE Module 1 | Lecture 23 🔧🌐 | Introduction to Software Switch Concepts 💻⚡ | NSE in Urdu/Hindi 🚀📚",
-          "thumbnailUrl": "https://i.ytimg.com/vi/8zzgsRZkaRI/mqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=8zzgsRZkaRI&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
-        },
-        {
-          "position": 29,
-          "videoId": "KEKaMHdl8C8",
-          "title": "🛡️ Module 1 | NSE Lecture 22 : Configuring & Verifying Link Aggregation on FortiGate 🔧🌐",
-          "thumbnailUrl": "https://i.ytimg.com/vi/KEKaMHdl8C8/mqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=KEKaMHdl8C8&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
-        },
-        {
-          "position": 30,
-          "videoId": "ky8sp8T8Y30",
-          "title": "🛡️ Module 1 | NSE Lecture 21 : Configuring & Verifying Redundant Interfaces on FortiGate 🔧🌐",
-          "thumbnailUrl": "https://i.ytimg.com/vi/ky8sp8T8Y30/mqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=ky8sp8T8Y30&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
-        },
-        {
-          "position": 31,
-          "videoId": "2nv0E5ITPlc",
-          "title": "🛡️ Module 1 | NSE Lecture 20 : Configuring & Testing One-Armed Sniffer Mode in FortiGate 🔍🖥️",
-          "thumbnailUrl": "https://i.ytimg.com/vi/2nv0E5ITPlc/mqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=2nv0E5ITPlc&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
-        },
-        {
-          "position": 32,
-          "videoId": "P0DDgwg8LJU",
-          "title": "🌐 Module 1 | NSE Lecture 19 : Setting Up & Verifying Zones in FortiGate Firewall Lab 🖥️⚙️",
-          "thumbnailUrl": "https://i.ytimg.com/vi/P0DDgwg8LJU/mqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=P0DDgwg8LJU&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
-        },
-        {
-          "position": 33,
-          "videoId": "Nt2zw1HnAJA",
-          "title": "🌐 Module 1 | NSE Lecture 18 : Configuring & Verifying VLANs in FortiGate Firewall Lab 🖥️⚙️",
-          "thumbnailUrl": "https://i.ytimg.com/vi/Nt2zw1HnAJA/mqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=Nt2zw1HnAJA&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
-        },
-        {
-          "position": 34,
-          "videoId": "bHjgAIExF98",
-          "title": "🛡️ Module 1 | NSE Lecture 17: Understanding FortiGate Interface Types & Usage 🌐🖥️",
-          "thumbnailUrl": "https://i.ytimg.com/vi/bHjgAIExF98/mqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=bHjgAIExF98&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
-        },
-        {
-          "position": 35,
-          "videoId": "2nStIlJmNfQ",
-          "title": "🛡️ Module 1 | NSE Lecture 15 : Navigating the FortiGate Firewall Dashboard 🖥️⚙️",
-          "thumbnailUrl": "https://i.ytimg.com/vi/2nStIlJmNfQ/mqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=2nStIlJmNfQ&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
-        },
-        {
-          "position": 36,
-          "videoId": "0Pp_kDF388U",
-          "title": "🛡️ Module 1 | NSE Lecture 16 : Overview of FortiGate Firewall Monitoring Tools 📊🖥️",
-          "thumbnailUrl": "https://i.ytimg.com/vi/0Pp_kDF388U/mqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=0Pp_kDF388U&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
-        },
-        {
-          "position": 37,
-          "videoId": "kPFq7gntIxg",
-          "title": "🛡️ Module 1 | NSE Lecture 15 : Navigating the FortiGate Firewall Dashboard 🖥️⚙️",
-          "thumbnailUrl": "https://i.ytimg.com/vi/kPFq7gntIxg/mqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=kPFq7gntIxg&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
-        },
-        {
-          "position": 38,
-          "videoId": "eM44DjEUkiQ",
-          "title": "🖥️ Module 1 | NSE Lecture 14: Configuring & Verifying Initial Lab Setup in EVE-NG ⚙️",
-          "thumbnailUrl": "https://i.ytimg.com/vi/eM44DjEUkiQ/mqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=eM44DjEUkiQ&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
-        },
-        {
-          "position": 39,
           "videoId": "HEtgl3qn6C0",
           "title": "🛡️ NSE Module 2 | Lecture 55 🌐⚡ | Configure & Verify Central Source NAT on FortiGate | Practical Lab",
           "thumbnailUrl": "https://i.ytimg.com/vi/HEtgl3qn6C0/mqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=HEtgl3qn6C0&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
         },
         {
+          "position": 7,
+          "videoId": "ydEeC8bcFt8",
+          "title": "🛡️ NSE Module 2 | Lecture 54 🌐⚡| Configure & Verify Port Block Allocation NAT Policy | FortiGate Lab",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ydEeC8bcFt8/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=ydEeC8bcFt8&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
+        },
+        {
+          "position": 8,
+          "videoId": "Nfbpnv_5gws",
+          "title": "🛡️ NSE Module 2 | Lecture 53 🌐⚡ | Configure & Verify Source NAT with Fixed Port Range| FortiGate Lab",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Nfbpnv_5gws/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Nfbpnv_5gws&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
+        },
+        {
+          "position": 9,
+          "videoId": "NvwLCrEnNko",
+          "title": "🛡️ NSE Module 2 | Lecture 52 🌐⚡ | Configure & Verify One-to-One NAT in FortiGate | Practical Lab |",
+          "thumbnailUrl": "https://i.ytimg.com/vi/NvwLCrEnNko/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=NvwLCrEnNko&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
+        },
+        {
+          "position": 10,
+          "videoId": "QwZwu4vv6pw",
+          "title": "🛡️ NSE Module 2 | Lecture 51 🌐⚡ | Configure & Verify Policy-Based Dynamic Source NAT Overload |",
+          "thumbnailUrl": "https://i.ytimg.com/vi/QwZwu4vv6pw/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=QwZwu4vv6pw&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
+        },
+        {
+          "position": 11,
+          "videoId": "vyZxHn2f6DQ",
+          "title": "🛡️ NSE Module 2 | Lecture 50 🌐⚡ | Configure & Verify Interface-Based Source NAT Overload | FortiGate",
+          "thumbnailUrl": "https://i.ytimg.com/vi/vyZxHn2f6DQ/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=vyZxHn2f6DQ&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
+        },
+        {
+          "position": 12,
+          "videoId": "XCqAKPOFd04",
+          "title": "🛡️ NSE Module 2 | Lecture 49 🌐⚡ | Understanding NAT Concepts & Types | Network Address Translation |",
+          "thumbnailUrl": "https://i.ytimg.com/vi/XCqAKPOFd04/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=XCqAKPOFd04&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
+        },
+        {
+          "position": 13,
+          "videoId": "MXTiaKG5O4Q",
+          "title": "🛡️ NSE Module 2 | Lecture 48 🌐⚡ | Configure & Verify DHCP Relay on FortiGate Firewall | UITA",
+          "thumbnailUrl": "https://i.ytimg.com/vi/MXTiaKG5O4Q/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=MXTiaKG5O4Q&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
+        },
+        {
+          "position": 14,
+          "videoId": "j6oURJUsM2E",
+          "title": "🛡️ NSE Module 2 | Lecture 47 🌐⚡ | Configure & Verify DHCP Server on Windows Server 2012 | UITA",
+          "thumbnailUrl": "https://i.ytimg.com/vi/j6oURJUsM2E/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=j6oURJUsM2E&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
+        },
+        {
+          "position": 15,
+          "videoId": "m7fSyMBHpKg",
+          "title": "🛡️ NSE Module 2 | Lecture 46 🌐⚡ | Configure & Verify DHCP Server on FortiGate Firewall | UITA",
+          "thumbnailUrl": "https://i.ytimg.com/vi/m7fSyMBHpKg/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=m7fSyMBHpKg&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
+        },
+        {
+          "position": 16,
+          "videoId": "1585n1d66es",
+          "title": "🛡️ NSE Module 2 | Lecture 42 🌐⚡ | Introduction to BGP Dynamic Routing Protocol | Urdu IT Academy",
+          "thumbnailUrl": "https://i.ytimg.com/vi/1585n1d66es/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=1585n1d66es&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
+        },
+        {
+          "position": 17,
+          "videoId": "4Xz7kZs-M1k",
+          "title": "🛡️ NSE Module 2 | Lecture 45 🌐⚡ | DHCP Concepts & Theory | Dynamic Host Configuration Protocol |",
+          "thumbnailUrl": "https://i.ytimg.com/vi/4Xz7kZs-M1k/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=4Xz7kZs-M1k&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
+        },
+        {
+          "position": 18,
+          "videoId": "Bkjh5EKXIdY",
+          "title": "🛡️ NSE Module 2 | Lecture 44 🌐⚡ | Configure & Verify eBGP Routing Protocol | FortiGate |",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Bkjh5EKXIdY/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Bkjh5EKXIdY&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
+        },
+        {
+          "position": 19,
+          "videoId": "pRLwseH2U7M",
+          "title": "🛡️ NSE Module 2 | Lecture 43 🌐 | Understanding BGP Variants & Flavours | BGP Routing Urdu IT Academy",
+          "thumbnailUrl": "https://i.ytimg.com/vi/pRLwseH2U7M/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=pRLwseH2U7M&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
+        },
+        {
+          "position": 20,
+          "videoId": "HlEzzCgu6Pw",
+          "title": "MODULE 2 LECTURE 41 Configure and Verify OSPF Protocol in FortiGate",
+          "thumbnailUrl": "https://i.ytimg.com/vi/HlEzzCgu6Pw/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=HlEzzCgu6Pw&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
+        },
+        {
+          "position": 21,
+          "videoId": "wOrNHs5EU2g",
+          "title": "🛡️ NSE Module 2 | Lecture 35 🌐⚡ | Equal Cost Multi-Path (ECMP) Routing – Concepts & Overview 🔄🛣️",
+          "thumbnailUrl": "https://i.ytimg.com/vi/wOrNHs5EU2g/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=wOrNHs5EU2g&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
+        },
+        {
+          "position": 22,
+          "videoId": "B7ALBCg-7-U",
+          "title": "🛡️ NSE Module 2 | Lecture 40 🌐⚡ | Understanding OSPF Dynamic Routing Protocol | Urdu IT Academy",
+          "thumbnailUrl": "https://i.ytimg.com/vi/B7ALBCg-7-U/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=B7ALBCg-7-U&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
+        },
+        {
+          "position": 23,
+          "videoId": "3xSrj4baOck",
+          "title": "🛡️ NSE Module 2 | Lecture 39 🌐⚡ | Configure & Verify RIP Protocol in FortiGate | Urdu IT Academy",
+          "thumbnailUrl": "https://i.ytimg.com/vi/3xSrj4baOck/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=3xSrj4baOck&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
+        },
+        {
+          "position": 24,
+          "videoId": "rTbt8lAma1c",
+          "title": "🛡️ NSE Module 2 | Lecture 38 🌐⚡ | Introduction to RIP Dynamic Routing Protocol | Urdu IT Academy",
+          "thumbnailUrl": "https://i.ytimg.com/vi/rTbt8lAma1c/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=rTbt8lAma1c&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
+        },
+        {
+          "position": 25,
+          "videoId": "tr-ql_0EnQA",
+          "title": "🛡️ NSE Module 2 | Lecture 37 🌐⚡ | Configure Health Link Monitor in FortiGate | Urdu IT Academy",
+          "thumbnailUrl": "https://i.ytimg.com/vi/tr-ql_0EnQA/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=tr-ql_0EnQA&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
+        },
+        {
+          "position": 26,
+          "videoId": "5kpJOEe8eWQ",
+          "title": "🛡️ NSE Module 2 | Lecture 36 🌐⚡ | Configure & Test ECMP Routing in FortiGate | FortiGate ECMP",
+          "thumbnailUrl": "https://i.ytimg.com/vi/5kpJOEe8eWQ/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=5kpJOEe8eWQ&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
+        },
+        {
+          "position": 27,
+          "videoId": "vIaQ9P3Kvak",
+          "title": "🛡️ NSE Module 2 | Lecture 34 🌐🚦 | Configure & Verify Policy-Based Routing (PBR) in FortiGate 🔧💻",
+          "thumbnailUrl": "https://i.ytimg.com/vi/vIaQ9P3Kvak/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=vIaQ9P3Kvak&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
+        },
+        {
+          "position": 28,
+          "videoId": "zBBDp0VN2Rc",
+          "title": "🛡️ NSE Module 2 | Lecture 33 🌐🚦 | Understanding Policy-Based Routing (PBR) in FortiGate 🔧💻 | NSE",
+          "thumbnailUrl": "https://i.ytimg.com/vi/zBBDp0VN2Rc/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=zBBDp0VN2Rc&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
+        },
+        {
+          "position": 29,
+          "videoId": "60qpwU1X4Rw",
+          "title": "🛡️ NSE Module 2 | Lecture 32 🌐🔧 | Configure & Verify Static and Default Routes in FortiGate 💻⚡ | NSE",
+          "thumbnailUrl": "https://i.ytimg.com/vi/60qpwU1X4Rw/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=60qpwU1X4Rw&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
+        },
+        {
+          "position": 30,
+          "videoId": "qsZ6bI4nbAs",
+          "title": "🛡️ NSE Module 2 | Lecture 31 🌐🚦 | Static & Dynamic Routing – Overview & Concepts 🔧💻 | NSE",
+          "thumbnailUrl": "https://i.ytimg.com/vi/qsZ6bI4nbAs/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=qsZ6bI4nbAs&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
+        },
+        {
+          "position": 31,
+          "videoId": "ZlyhLVEdQjI",
+          "title": "🛡️ NSE Module 1 | Lecture 30 🔐💻 | Understanding & Configuring Administrative Access in FortiGate 🌐",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ZlyhLVEdQjI/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=ZlyhLVEdQjI&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
+        },
+        {
+          "position": 32,
+          "videoId": "OrNyrtcKMJc",
+          "title": "🛡️ NSE Module 1 | Lecture 29 🚦🌐 | Understanding Traffic Shaping in FortiGate Firewall 🔧💻 | NSE",
+          "thumbnailUrl": "https://i.ytimg.com/vi/OrNyrtcKMJc/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=OrNyrtcKMJc&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
+        },
+        {
+          "position": 33,
+          "videoId": "tVsop_T5SC4",
+          "title": "🛡️ NSE Module 1 | Lecture 28 🌐💻 | Windows DNS Server Integration with FortiGate Firewall 🔧⚡ | NSE",
+          "thumbnailUrl": "https://i.ytimg.com/vi/tVsop_T5SC4/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=tVsop_T5SC4&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
+        },
+        {
+          "position": 34,
+          "videoId": "JyRnIMTsDeo",
+          "title": "🛡️ NSE Module 1 | Lecture 27 🌐💻 | Advanced DNS Configuration & Verification on FortiGate 🔧⚡ | NSE",
+          "thumbnailUrl": "https://i.ytimg.com/vi/JyRnIMTsDeo/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=JyRnIMTsDeo&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
+        },
+        {
+          "position": 35,
+          "videoId": "Iaj1KAP2y90",
+          "title": "🛡️ NSE Module 1 | Lecture 25  | Setting Up & Verifying Virtual Wire Pair in FortiGate Firewall 🔧💻",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Iaj1KAP2y90/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Iaj1KAP2y90&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
+        },
+        {
+          "position": 36,
+          "videoId": "CWfZ6aAhyVg",
+          "title": "🛡️ NSE Module 1 | Lecture 26 🌐💻 | DNS Configuration & Verification on FortiGate – Basics 🔧⚡ | NSE",
+          "thumbnailUrl": "https://i.ytimg.com/vi/CWfZ6aAhyVg/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=CWfZ6aAhyVg&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
+        },
+        {
+          "position": 37,
+          "videoId": "7XPzz-j_VLA",
+          "title": "🛡️ NSE Module 1 | Lecture 24 🔧🌐 | Configuring & Testing Software Switch in FortiGate 💻⚡ | NSE",
+          "thumbnailUrl": "https://i.ytimg.com/vi/7XPzz-j_VLA/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=7XPzz-j_VLA&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
+        },
+        {
+          "position": 38,
+          "videoId": "8zzgsRZkaRI",
+          "title": "🛡️ NSE Module 1 | Lecture 23 🔧🌐 | Introduction to Software Switch Concepts 💻⚡ | NSE in Urdu/Hindi 🚀📚",
+          "thumbnailUrl": "https://i.ytimg.com/vi/8zzgsRZkaRI/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=8zzgsRZkaRI&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
+        },
+        {
+          "position": 39,
+          "videoId": "KEKaMHdl8C8",
+          "title": "🛡️ Module 1 | NSE Lecture 22 : Configuring & Verifying Link Aggregation on FortiGate 🔧🌐",
+          "thumbnailUrl": "https://i.ytimg.com/vi/KEKaMHdl8C8/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=KEKaMHdl8C8&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
+        },
+        {
           "position": 40,
+          "videoId": "ky8sp8T8Y30",
+          "title": "🛡️ Module 1 | NSE Lecture 21 : Configuring & Verifying Redundant Interfaces on FortiGate 🔧🌐",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ky8sp8T8Y30/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=ky8sp8T8Y30&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
+        },
+        {
+          "position": 41,
+          "videoId": "2nv0E5ITPlc",
+          "title": "🛡️ Module 1 | NSE Lecture 20 : Configuring & Testing One-Armed Sniffer Mode in FortiGate 🔍🖥️",
+          "thumbnailUrl": "https://i.ytimg.com/vi/2nv0E5ITPlc/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=2nv0E5ITPlc&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
+        },
+        {
+          "position": 42,
+          "videoId": "P0DDgwg8LJU",
+          "title": "🌐 Module 1 | NSE Lecture 19 : Setting Up & Verifying Zones in FortiGate Firewall Lab 🖥️⚙️",
+          "thumbnailUrl": "https://i.ytimg.com/vi/P0DDgwg8LJU/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=P0DDgwg8LJU&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
+        },
+        {
+          "position": 43,
+          "videoId": "Nt2zw1HnAJA",
+          "title": "🌐 Module 1 | NSE Lecture 18 : Configuring & Verifying VLANs in FortiGate Firewall Lab 🖥️⚙️",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Nt2zw1HnAJA/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Nt2zw1HnAJA&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
+        },
+        {
+          "position": 44,
+          "videoId": "bHjgAIExF98",
+          "title": "🛡️ Module 1 | NSE Lecture 17: Understanding FortiGate Interface Types & Usage 🌐🖥️",
+          "thumbnailUrl": "https://i.ytimg.com/vi/bHjgAIExF98/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=bHjgAIExF98&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
+        },
+        {
+          "position": 45,
+          "videoId": "2nStIlJmNfQ",
+          "title": "🛡️ Module 1 | NSE Lecture 15 : Navigating the FortiGate Firewall Dashboard 🖥️⚙️",
+          "thumbnailUrl": "https://i.ytimg.com/vi/2nStIlJmNfQ/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=2nStIlJmNfQ&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
+        },
+        {
+          "position": 46,
+          "videoId": "0Pp_kDF388U",
+          "title": "🛡️ Module 1 | NSE Lecture 16 : Overview of FortiGate Firewall Monitoring Tools 📊🖥️",
+          "thumbnailUrl": "https://i.ytimg.com/vi/0Pp_kDF388U/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=0Pp_kDF388U&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
+        },
+        {
+          "position": 47,
+          "videoId": "kPFq7gntIxg",
+          "title": "🛡️ Module 1 | NSE Lecture 15 : Navigating the FortiGate Firewall Dashboard 🖥️⚙️",
+          "thumbnailUrl": "https://i.ytimg.com/vi/kPFq7gntIxg/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=kPFq7gntIxg&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
+        },
+        {
+          "position": 48,
+          "videoId": "eM44DjEUkiQ",
+          "title": "🖥️ Module 1 | NSE Lecture 14: Configuring & Verifying Initial Lab Setup in EVE-NG ⚙️",
+          "thumbnailUrl": "https://i.ytimg.com/vi/eM44DjEUkiQ/mqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=eM44DjEUkiQ&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
+        },
+        {
+          "position": 49,
           "videoId": "PaWiia0Z-sU",
           "title": "🌐 Module 1 | NSE Lecture 13: Understanding Networking in EVE-NG 🖥️⚙️",
           "thumbnailUrl": "https://i.ytimg.com/vi/PaWiia0Z-sU/mqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=PaWiia0Z-sU&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
         },
         {
-          "position": 41,
+          "position": 50,
           "videoId": "FhBNp2q78kk",
           "title": "🖥️ Module 1 | NSE Lecture 12: Uploading Additional Lab Images to EVE-NG Community Edition ⚙️",
           "thumbnailUrl": "https://i.ytimg.com/vi/FhBNp2q78kk/mqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=FhBNp2q78kk&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
         },
         {
-          "position": 42,
+          "position": 51,
           "videoId": "x0VaWfWifjE",
           "title": "Module 1 | NSE Lecture 11: Uploading FortiGate Firewall Images to EVE-NG & Working with Licenses 💻",
           "thumbnailUrl": "https://i.ytimg.com/vi/x0VaWfWifjE/mqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=x0VaWfWifjE&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
         },
         {
-          "position": 43,
+          "position": 52,
           "videoId": "ykk7PrvzZT4",
           "title": "🖥️ Module 1 | NSE Lecture 10: Installing & Setting Up EVE-NG Client Pack on Windows ⚙️",
           "thumbnailUrl": "https://i.ytimg.com/vi/ykk7PrvzZT4/mqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=ykk7PrvzZT4&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
         },
         {
-          "position": 44,
+          "position": 53,
           "videoId": "6blTimY73XM",
           "title": "💻 Module 1 | NSE Lecture 09: Installing & Configuring EVE-NG on VMware Workstation 🖥️",
           "thumbnailUrl": "https://i.ytimg.com/vi/6blTimY73XM/mqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=6blTimY73XM&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
         },
         {
-          "position": 45,
+          "position": 54,
           "videoId": "s2u5JRuUlYI",
           "title": "🖥️ Module 1 | NSE Lecture 08: Introduction to Network Simulation Tools & Emulators 🌐",
           "thumbnailUrl": "https://i.ytimg.com/vi/s2u5JRuUlYI/mqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=s2u5JRuUlYI&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
         },
         {
-          "position": 46,
+          "position": 55,
           "videoId": "KRSa3QjfkbY",
           "title": "🛡️ Module 1 | NSE Lecture 07: Introduction to Fortinet, FortiGate & NSE Certification Exam 🎓",
           "thumbnailUrl": "https://i.ytimg.com/vi/KRSa3QjfkbY/mqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=KRSa3QjfkbY&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
         },
         {
-          "position": 47,
+          "position": 56,
           "videoId": "eRPOruKlOC0",
           "title": "🔥 Module 1 | NSE Lecture 06: Overview of Next Generation Firewalls (NGFW) 🛡️",
           "thumbnailUrl": "https://i.ytimg.com/vi/eRPOruKlOC0/mqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=eRPOruKlOC0&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
         },
         {
-          "position": 48,
+          "position": 57,
           "videoId": "x8UXoML-llg",
           "title": "Module 1 | Lecture 5: Introduction to Web Application Firewall (WAF) 🌐🛡️ | Cybersecurity Basics",
           "thumbnailUrl": "https://i.ytimg.com/vi/x8UXoML-llg/mqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=x8UXoML-llg&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
         },
         {
-          "position": 49,
+          "position": 58,
           "videoId": "FZ-PtY5Y-5k",
           "title": "Module 1 | Lecture 4: Introduction to Various Firewall Technologies 🔥🛡️ | Cybersecurity Basics",
           "thumbnailUrl": "https://i.ytimg.com/vi/FZ-PtY5Y-5k/mqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=FZ-PtY5Y-5k&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
         },
         {
-          "position": 50,
+          "position": 59,
           "videoId": "j-d_r8dPJxU",
           "title": "Module 1 | Lecture 3 : Overview of Malware & Malicious Software 🦠💻 | Cybersecurity Basics",
           "thumbnailUrl": "https://i.ytimg.com/vi/j-d_r8dPJxU/mqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=j-d_r8dPJxU&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
         },
         {
-          "position": 51,
+          "position": 60,
           "videoId": "NKHbEh6G4lM",
           "title": "Module 1 | Lecture 02: Understanding Confidentiality, Integrity & Availability (CIA Triad) 🔐📘",
           "thumbnailUrl": "https://i.ytimg.com/vi/NKHbEh6G4lM/mqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=NKHbEh6G4lM&list=PLnzLM82lqy8v9ef64RfdW5poFdTNQdVdJ"
         },
         {
-          "position": 52,
+          "position": 61,
           "videoId": "AB0RxVNckT0",
           "title": "Module 1 | Lecture 1: Overview of Common Network Security Terminology 🔐 | Cyber Security Basics",
           "thumbnailUrl": "https://i.ytimg.com/vi/AB0RxVNckT0/mqdefault.jpg",
@@ -10788,5 +10851,5 @@
   "thumbnailSource": "YouTube playlist feed first video thumbnail",
   "thumbnailUpdatedAt": "2026-07-28T14:38:29.892Z",
   "youtubeMetadataSource": "YouTube public playlist page order; RSS feed fallback",
-  "youtubeMetadataUpdatedAt": "2026-09-29T09:18:05.474Z"
+  "youtubeMetadataUpdatedAt": "2026-09-29T09:51:12.660Z"
 }
